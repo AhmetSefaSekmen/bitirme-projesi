@@ -1,2 +1,2 @@
 # bitirme-projesi
-Yapay Zekâ ve Görüntü İşleme Destekli Bel Fıtığı Tespit ve Karma Gerçeklik Sistemi
+Yapay Zekâ ve Görüntü İşleme Tabanlı Bel Fıtığı Tespit ve Segmentasyon Sistemi
